@@ -1,0 +1,53 @@
+#d1{
+	/*margin: 10px 5px 25px 10px;*/
+	/*margin-top: ;
+	margin-right: ;
+	margin-bottom: ;
+	margin-left: ;*/	
+
+	/*padding: 10px;
+	padding-top: ;*/
+	position: fixed;
+	/*top: ;
+	left: ;
+	right: ;
+	bottom: ;*/
+
+	width: 1050px;
+	height: 700px;
+
+}
+
+.c1{
+	position: fixed;
+	width: 1600px;
+	height: 900px;
+
+}
+
+#d2{
+	position: fixed;
+    top: 160px;
+    left:600px ;
+    background-color: rgba(0, 0, 0,0.5);
+    border-radius: 10px;
+	width: 350px;
+	height: 300px;
+
+}
+.c2{
+    margin: 40px;
+
+}
+
+#d3{
+	position: fixed;
+    top: 110px;
+    left:550px ;
+    background-color: rgba(0, 0, 0,0.5);
+    border-radius: 14px;
+	width: 510px;
+	height: 560px;
+}
+
+
